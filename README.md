@@ -1,6 +1,6 @@
-# HALZIZ — The Monolithic Matrix of Tech
+# HALZIZ   The Monolithic Matrix of Tech
 
-> *"In the ancient language of Geez, Halziz means 'Seashell' — a symbol of organic intelligence, layered complexity, and hidden strength."*
+> *"In the ancient language of Geez, Halziz means 'Seashell'   a symbol of organic intelligence, layered complexity, and hidden strength."*
 
 ![Hero](assets/HeroSectionBg.jpg)
 
@@ -8,7 +8,7 @@
 
 ## Architecture of Intelligence
 
-HALZIZ is not merely a website. It is a digital monolith — a single-page application engineered to embody the ethos of Ethiopia's premier advanced technology company. Every pixel, every animation, every interaction is deliberate, woven into a cohesive narrative that spans from the copper veins of network infrastructure to the silicon dreams of artificial intelligence.
+HALZIZ is not merely a website. It is a digital monolith   a single-page application engineered to embody the ethos of Ethiopia's premier advanced technology company. Every pixel, every animation, every interaction is deliberate, woven into a cohesive narrative that spans from the copper veins of network infrastructure to the silicon dreams of artificial intelligence.
 
 This is the digital frontier of **#DIGITALETHIOPIA2030**.
 
@@ -18,19 +18,19 @@ This is the digital frontier of **#DIGITALETHIOPIA2030**.
 
 ### Dark Monochrome Palette
 
-The interface breathes in shades of black, silver, and white — a deliberate austerity that channels focus toward content. The color variables tell the story:
+The interface breathes in shades of black, silver, and white   a deliberate austerity that channels focus toward content. The color variables tell the story:
 
 | Token | Value | Role |
 |---|---|---|
-| `--black` | `#0a0a0a` | Foundation — the void from which light emerges |
-| `--silver` | `#C0C0C0` | Accent — the glint of circuitry, the edge of innovation |
-| `--white` | `#f5f5f5` | Clarity — the pure signal beneath the noise |
-| `--dim-gray` | `#666` | Texture — the whispers of infrastructure |
+| `--black` | `#0a0a0a` | Foundation   the void from which light emerges |
+| `--silver` | `#C0C0C0` | Accent   the glint of circuitry, the edge of innovation |
+| `--white` | `#f5f5f5` | Clarity   the pure signal beneath the noise |
+| `--dim-gray` | `#666` | Texture   the whispers of infrastructure |
 
 ### Typography
 
-- **Display:** `Space Grotesk` — geometric, futuristic, commanding. Used for the HALZIZ logo and major headings.
-- **Body:** `Inter` — clean, readable, Swiss-precision. Used for all body text, labels, and UI elements.
+- **Display:** `Space Grotesk`   geometric, futuristic, commanding. Used for the HALZIZ logo and major headings.
+- **Body:** `Inter`   clean, readable, Swiss-precision. Used for all body text, labels, and UI elements.
 
 The interplay creates a rhythm: the display face makes bold declarations, while the body face delivers the substance.
 
@@ -38,7 +38,7 @@ The interplay creates a rhythm: the display face makes bold declarations, while 
 
 ## The Sections
 
-### 1. Hero — Where the Swarm Lives
+### 1. Hero   Where the Swarm Lives
 
 The entry point is a sensory immersion. A full-bleed background (`HeroSectionBg.jpg`) sets the stage, overlaid with a cyber-grid and particle canvas that breathes with algorithmic life.
 
@@ -54,22 +54,22 @@ The entry point is a sensory immersion. A full-bleed background (`HeroSectionBg.
 └─────────────────────────────────────────┘
 ```
 
-Behind the logo, a swarm of **35 SVG drones** (15 foreground + 20 background) oscillate with simulated flocking behavior — cohesion, separation, velocity matching, and wrap-around boundary detection. They are not animated GIFs. They are pure vector mathematics, drawn in silver (`#C0C0C0`) with a soft drop-shadow glow.
+Behind the logo, a swarm of **35 SVG drones** (15 foreground + 20 background) oscillate with simulated flocking behavior   cohesion, separation, velocity matching, and wrap-around boundary detection. They are not animated GIFs. They are pure vector mathematics, drawn in silver (`#C0C0C0`) with a soft drop-shadow glow.
 
-The HeroWiresBg weaves through both the letterforms and the backdrop — a faint, almost subliminal texture of cables and connectivity at 0.05 opacity, like the ghost of infrastructure past.
+The HeroWiresBg weaves through both the letterforms and the backdrop   a faint, almost subliminal texture of cables and connectivity at 0.05 opacity, like the ghost of infrastructure past.
 
-### 2. About — The Origin Story
+### 2. About   The Origin Story
 
 A two-column narrative grid that establishes:
-- **The Mission** — Building Ethiopia's intelligent infrastructure
-- **The Vision** — A digitally sovereign Africa
-- **The Founders** — Henok Akriso and Johnson Ayalew, each with distinct expertise (9 and 11 projects respectively, hardcoded to reflect reality)
+- **The Mission**   Building Ethiopia's intelligent infrastructure
+- **The Vision**   A digitally sovereign Africa
+- **The Founders**   Henok Akriso and Johnson Ayalew, each with distinct expertise (9 and 11 projects respectively, hardcoded to reflect reality)
 
 The About section grounds the technological spectacle in human ambition.
 
-### 3. Products — The Matrix Materialized
+### 3. Products   The Matrix Materialized
 
-Each product card is a gateway into a detailed modal — a full-screen deep dive that includes:
+Each product card is a gateway into a detailed modal   a full-screen deep dive that includes:
 - A technical description
 - Key features with metrics
 - A "Request This Service" form that transmits to `contact@halziz.com`
@@ -83,11 +83,11 @@ Each product card is a gateway into a detailed modal — a full-screen deep dive
 | Web & App Development | Digital product engineering |
 | Cloud Services | Scalable infrastructure solutions |
 
-### 4. Services — The Craft
+### 4. Services   The Craft
 
-Six service pillars, each with an icon, description, and modal detailing the specific offerings within that domain. The services are the *how* behind the *what* — the methodologies, the tools, the processes.
+Six service pillars, each with an icon, description, and modal detailing the specific offerings within that domain. The services are the *how* behind the *what*   the methodologies, the tools, the processes.
 
-### 5. Case Studies — The Proof
+### 5. Case Studies   The Proof
 
 A masonry-style grid of case study cards, each with a randomly assigned image from the `assetImages` pool (13 images shuffled on every page load). Clicking opens a modal that presents:
 
@@ -95,35 +95,35 @@ A masonry-style grid of case study cards, each with a randomly assigned image fr
 
 The narrative arc of engineering triumph, told in three acts.
 
-### 6. Technologies — The Stack
+### 6. Technologies   The Stack
 
 A visual directory of the tools and platforms that power HALZIZ's solutions. Each logo represents a commitment to modern, battle-tested technology.
 
-### 7. AI Agents — The Digital Workforce
+### 7. AI Agents   The Digital Workforce
 
-An interactive showcase of autonomous AI agents — each with a role, capability set, and status indicator. These are the non-human employees of HALZIZ, working 24/7/365.
+An interactive showcase of autonomous AI agents   each with a role, capability set, and status indicator. These are the non-human employees of HALZIZ, working 24/7/365.
 
-### 8. Blog — The Chronicle
+### 8. Blog   The Chronicle
 
 A grid of article cards, each with a randomly assigned image and truncated excerpt. The inline modal template includes multiple image slots (`imgs` array) for in-article figures, creating a magazine-like reading experience.
 
-### 9. Contact — The Transmission
+### 9. Contact   The Transmission
 
 A floating-label form with four required fields (Name, Email, Phone, Subject, Message) and a "Send Transmission" button that triggers:
 
-1. **Validation** — Each field checked, with mini-toast error messages
-2. **Transmission Sequence** — A terminal-style overlay animates through:
+1. **Validation**   Each field checked, with mini-toast error messages
+2. **Transmission Sequence**   A terminal-style overlay animates through:
    - INITIALIZING SECURE CHANNEL...
    - ENCRYPTING PAYLOAD WITH AES-256...
    - ROUTING THROUGH HALZIZ PROXY NETWORK...
    - ESTABLISHING CONNECTION TO contact@halziz.com...
    - TRANSMISSION COMPLETE
-3. **Mailto Dispatch** — The data is sent via `mailto:contact@halziz.com`
-4. **System Notification** — A modal displays with a 7-minute countdown timer
+3. **Mailto Dispatch**   The data is sent via `mailto:contact@halziz.com`
+4. **System Notification**   A modal displays with a 7-minute countdown timer
 
 ---
 
-## The Drone Swarm — A Technical Deep Dive
+## The Drone Swarm   A Technical Deep Dive
 
 The drone swarm is the single most sophisticated visual element on the site. It is a pure JavaScript physics simulation with no external dependencies.
 
@@ -139,7 +139,7 @@ initDrones()
 ├── Create 20 background drones
 │   ├── Larger scale (2×–5×)
 │   ├── Lower opacity: 0.3
-│   └── No physics — static decorative elements
+│   └── No physics   static decorative elements
 └── RequestAnimationFrame loop
     ├── Cohesion: steer toward centroid of neighbors
     ├── Separation: avoid crowding
@@ -198,7 +198,7 @@ The site uses a custom SPA router (no framework) that:
 3. **Animates** transitions with GSAP-like JavaScript animations
 4. **Manages** page-specific lifecycles (start drones on home, stop drones on leave, initialize modals, etc.)
 
-The navigation bar features a horizontal scroll indicator that tracks reading progress — a thin silver line that fills from left to right as the user scrolls.
+The navigation bar features a horizontal scroll indicator that tracks reading progress   a thin silver line that fills from left to right as the user scrolls.
 
 ---
 
@@ -246,12 +246,12 @@ The notification is styled as a system terminal message with a reference number,
 
 ## Performance Considerations
 
-- **No external image CDN** — All assets served locally from `/assets/`
-- **GSAP deferred** — GreenSock Animation Platform loaded only when needed
-- **Three.js minimized** — 3D particles use minimal geometry
-- **Font loading** — `Space Grotesk` and `Inter` loaded with `font-display: swap`
-- **Lazy modals** — Modal content is not in the DOM until triggered
-- **Inline SVGs** — No external icon files; all icons are embedded SVG
+- **No external image CDN**   All assets served locally from `/assets/`
+- **GSAP deferred**   GreenSock Animation Platform loaded only when needed
+- **Three.js minimized**   3D particles use minimal geometry
+- **Font loading**   `Space Grotesk` and `Inter` loaded with `font-display: swap`
+- **Lazy modals**   Modal content is not in the DOM until triggered
+- **Inline SVGs**   No external icon files; all icons are embedded SVG
 
 ---
 
@@ -284,10 +284,10 @@ All asset paths use relative URLs (`assets/...`) to ensure compatibility across 
 
 ## The Team
 
-- **Henok Akriso** — Lead Architect, ISP Infrastructure & Systems Integration  
-  `+251 912 172 646` · `henok@halziz.et`
-- **Johnson Ayalew** — Lead Engineer, Ai & Drone technology  
-  `+251 945 118 608` · `johnson@halziz.et`
+- **Henok Akriso**  Lead Engineer, Ai & Drone technology  
+  `+251 912 172 646` · `henok@halziz.com`
+- **Johnson Ayalew**  Lead Architect, ISP Infrastructure & Systems Integration  
+  `+251 945 118 608` · `johnson@halziz.com`
 
 ---
 
@@ -312,4 +312,4 @@ Telegram: t.me/halziz1
 
 ![Footer](assets/SectionBg1.jpg)
 
-**HALZIZ** — *The Monolithic Matrix of Tech* | **#DIGITALETHIOPIA2030**
+**HALZIZ**   *The Monolithic Matrix of Tech* | **#DIGITALETHIOPIA2030**
